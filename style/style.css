@@ -1,8 +1,12 @@
 body{
-    .container{
-        padding: 50px;
-        margin: 10 10;
-        background-color: green;
-        border-radius: 10px;
-    }
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+.container{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #cf0e0e;
+    border-radius: 5px;
 }
